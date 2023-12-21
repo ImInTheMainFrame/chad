@@ -53,6 +53,7 @@ img {
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  border-style: solid;
 }
 
 /* Updated styles for the modal content */
